@@ -9,7 +9,7 @@ struct user{
 int main() {
     struct user user1;
     scanf("%s", user1.name);
-    scanf("%s", user1.age);
+    scanf("%d", user1.age);
     scanf("%s", user1.hobby);
     printf("Name: %s\n", user1.name);
     printf("Age: %d\n", user1.age);
