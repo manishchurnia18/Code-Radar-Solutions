@@ -13,6 +13,5 @@ int main() {
     else{
         printf("Zero");
     }
-    printf()
     return 0;
 }
